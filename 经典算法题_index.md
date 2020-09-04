@@ -18,7 +18,7 @@
 
 > [建楼问题](https://www.jianshu.com/p/e9ca90effc5f)
 
-> [从M走到N最少步数](https://www.jianshu.com/p/231222570700)
+> [Python实现十大经典排序算法](https://www.jianshu.com/p/bbbab7fa77a2)
 
 > [KMP 算法](https://www.jianshu.com/p/752eae219bea)
 
